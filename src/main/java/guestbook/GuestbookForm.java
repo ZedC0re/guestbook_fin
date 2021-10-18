@@ -45,9 +45,9 @@ class GuestbookForm {
 	 */
 	public GuestbookForm(String name, String text, String email) {
 
-		this.email = email;
 		this.name = name;
 		this.text = text;
+		this.email = email;
 	}
 
 	/**
